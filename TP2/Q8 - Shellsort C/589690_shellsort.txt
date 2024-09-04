@@ -1,0 +1,1 @@
+Matricula: 589690	Tempo de Execução: 0.000912s	Comparações: 6723	Movimentações: 7859
